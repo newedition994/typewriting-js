@@ -22,4 +22,7 @@ body {
 .typing::after {
   content: "";
   position: absolute;
+  width: 1px;
+  height: 5%;
+  border-right: 2px solid teal;
 }
