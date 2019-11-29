@@ -4,4 +4,8 @@ body {
 
 .intro {
   display: flex;
+  color: white;
+  height: 100vh;
+  background: url("https://www.roberthalf.com/sites/default/files/styles/full_width_content_image_1x_small_480/public/2018-05/Hire%20the%20right%20programmer.jpg?itok=tji08dRp");
+  background-size: cover;
 }
